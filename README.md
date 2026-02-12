@@ -1,5 +1,13 @@
 # Androidacy Module Manager
 
+#### V3 is out! Stable coming soon.
+
+<a href="https://play.google.com/store/apps/details?id=com.androidacy.modulemanager">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200" alt="Get it on Google Play">
+</a>
+
+V3 is a bottom up rewrite in kotlin, compose, and with near zero webviews, a faster experience, and much more. Thanks for sticking with us thoughout the longer than expected wait.
+
 ## Introduction
 
 ### Developed by Androidacy
@@ -8,20 +16,13 @@ Explore our diverse range of offerings on our [official website](https://www.and
 
 #### This app is currently in maintenance mode
 
-We're actively working on its replacement though! We target a Q3 release for v3, which has features like:
-
-- No more webview - the Androidacy repository is a first class citizen
-- Better performance
-- More features for devs and users
-- Better security
-- A full rewrite - completely rewritten from scratch
-- Tighter integration with the Androidacy platform
-
-  Build has been submitted to Google Play. More information coming once its available!
-
 **All builds before 2.3.7 are expired and cannot be used.**
 
-##### F-Droid builds are no longer being maintained. Please do not use them.
+2.3.8 is also now expired. For security reasons, we recommend using the v3 version ASAP. Website downloads coming soon.
+
+##### F-Droid builds are no longer being maintained. Please do not use them. They are no longer considered official, may be broken, or may be missing features.
+
+If you see any projects with "FoxMMM" or "AMM", and they are not downloaded from this repo, the official Androidacy Google Play, or our offical website, they may not be safe, and may contain malicious code intended to take over your device.
 
 [![Latest Release](https://img.shields.io/github/v/release/Androidacy/AndroidacyModuleManager?color=neon&label=Latest%20release&style=for-the-badge)](https://www.androidacy.com/downloads/?view=FoxMMM&utm_source=fox-readme&utm_medium=web&utm_campaign=github-readme)
 
